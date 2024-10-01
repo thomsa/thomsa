@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [FLYR's Frontend Library](https://flyr.com/) in my day-to-day job
 - 🐶 As a personal project I am working on beegl.io, an AI powered personal budgeting app (not released yet)
-- ⚡ Fun fact **I have had a pizza restaurant 🍕**
+- ⚡ Fun fact **I was the owner of a pizza restaurant 🍕**
 
 <br>
 
