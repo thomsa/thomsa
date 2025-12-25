@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Tamas</h1>
-
 <p align="center">
 <picture>
   <source
@@ -13,24 +12,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=thomsa&show_icons=true" />
 </picture>
 </p>
-<br>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tamas-lorincz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tamas-lorincz" height="30" width="40" /></a>
 </p>
 
-## Pinned Repos
-
-<br>
-
-<a href="https://github.com/thomsa/electron-ts-react-boilerplate" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset='https://github-readme-stats.vercel.app/api/pin/?username=thomsa&repo=electron-ts-react-boilerplate&border_color=87ceeb40&bg_color=161b24&title_color=f5f5f5&icon_color=87ceeb&text_color=cccccc'>
-    <source media="(prefers-color-scheme: light)" srcset='https://github-readme-stats.vercel.app/api/pin/?username=thomsa&repo=electron-ts-react-boilerplate&border_color=2986cc60&bg_color=ffffff&title_color=106eb5&text_color=8B949E&icon_color=2986cc'>
-    <img src='https://github-readme-stats.vercel.app/api/pin/?username=thomsa&repo=nest-react-grpc-services-template&border_color=2986cc60&bg_color=ffffff&title_color=106eb5&text_color=8B949E&icon_color=2986cc'>
-  </picture>
-</a>
 
 <a href="https://github.com/thomsa/nest-react-grpc-services-template" target="_blank" rel="noreferrer">
   <picture>
