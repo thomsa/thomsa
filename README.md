@@ -1,9 +1,4 @@
-<h1 align="center">Hi/Cześć/Szia 👋, I'm Tamas</h1>
-<h3 align="center">A passionate software developer from Hungary, living in Poland!</h3>
-
-- 🔭 I’m currently working on [FLYR's Frontend Library](https://flyr.com/) in my day-to-day job
-- 🐶 As a personal project I am working on beegl.io, an AI powered personal budgeting app (not released yet)
-- ⚡ Fun fact **I was the owner of a pizza restaurant 🍕**
+<h1 align="center">Hi 👋, I'm Tamas</h1>
 
 <br>
 
